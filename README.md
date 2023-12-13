@@ -97,7 +97,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/RENGOKU-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/RENGOKUS-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
